@@ -1,4 +1,4 @@
-Name: Sophia Ahuoyiza Abubakar
+Author: Sophia Ahuoyiza Abubakar
 
 
 ## About:
