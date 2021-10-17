@@ -54,6 +54,7 @@ To exit the app, type 'exit' and press enter.
        navigation = false;
        let err =`OOPs THAT'S NOT A VALID INPUT. TRY AGAIN 
        Hint: Reload App`
+       console.log(err);
    }
    }
 
